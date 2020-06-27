@@ -1,0 +1,15 @@
+[general]
+base_currency = NZD
+display = both
+
+[bitcoin]
+icon = 
+
+[litecoin]
+icon = 
+
+[ardor]
+icon = 
+
+[ethereum]
+icon = 
